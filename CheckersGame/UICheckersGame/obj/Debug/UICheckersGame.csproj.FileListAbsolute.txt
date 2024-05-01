@@ -1,0 +1,14 @@
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\bin\Debug\UICheckersGame.exe.config
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\bin\Debug\UICheckersGame.exe
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\bin\Debug\UICheckersGame.pdb
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\bin\Debug\LogicCheckersGame.dll
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\bin\Debug\LogicCheckersGame.pdb
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\obj\Debug\UICheckersGame.csprojAssemblyReference.cache
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\obj\Debug\UICheckersGame.GameForm.resources
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\obj\Debug\UICheckersGame.GameSettings.resources
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\obj\Debug\UICheckersGame.Properties.Resources.resources
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\obj\Debug\UICheckersGame.csproj.GenerateResource.cache
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\obj\Debug\UICheckersGame.csproj.CoreCompileInputs.cache
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\obj\Debug\UICheckersGame.csproj.CopyComplete
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\obj\Debug\UICheckersGame.exe
+C:\Users\דורין\Downloads\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885 (1)\B22 Ex05 DorinOhayon 313575060 SaharShelach 208401885\UICheckersGame\obj\Debug\UICheckersGame.pdb
